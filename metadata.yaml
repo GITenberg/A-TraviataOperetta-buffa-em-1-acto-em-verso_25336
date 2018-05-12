@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31258'
     url: http://www.gutenberg.org/2009/agents/31258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25336#A-TraviataOperetta-buffa-em-1-acto-em-verso
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2008-05-05'
 gutenberg_type: Text
